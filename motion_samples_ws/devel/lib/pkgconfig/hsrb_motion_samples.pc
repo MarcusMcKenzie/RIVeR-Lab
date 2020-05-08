@@ -1,0 +1,8 @@
+prefix=/home/marcus/motion_samples_ws/devel
+
+Name: hsrb_motion_samples
+Description: Description of hsrb_motion_samples
+Version: 0.4.1
+Cflags: 
+Libs: -L/home/marcus/motion_samples_ws/devel/lib 
+Requires: actionlib control_msgs controller_manager_msgs roscpp rospy tmc_control_msgs trajectory_msgs
