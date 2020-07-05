@@ -11,6 +11,7 @@ Toyota's Human Support Robot was built with the goal of assisting the disabled a
 [HSR Overview and Robocup Qualification](https://www.youtube.com/watch?v=BKl5_zznHdw)
 
 [Tidy-Up Checkpoint(Real World Tasks)](https://drive.google.com/drive/u/0/folders/1h8myZTCJFdL-3PQT3B9aZJKfiBDQTa7m)
+[Tidy-Up Checkpoint(Real World Tasks)](https://drive.google.com/file/d/15Ut8Br50E32w9f6Rot2nO1UGWOjjHJxQ/view?usp=sharing)
 
 [CES](https://www.youtube.com/watch?v=kObJt-u8b94)
  
